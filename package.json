@@ -1,0 +1,13 @@
+{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3",
+        "iconv-lite": "^0.4.24",
+        "jschardet": "^2.1.0",
+        "request": "^2.88.0"
+    }
+}
